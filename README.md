@@ -1,5 +1,6 @@
 # Simple Weather App
-Hybrid mobile application for current weather built using Visual Studio tools For Apache Cordova (based on https://docs.microsoft.com/en-us/visualstudio/cross-platform/tools-for-cordova/first-steps/build-your-first-app?view=toolsforcordova-2017)
+Hybrid mobile application for current weather built using Visual Studio tools For Apache Cordova 
+(based on https://docs.microsoft.com/en-us/visualstudio/cross-platform/tools-for-cordova/first-steps/build-your-first-app?view=toolsforcordova-2017)
 
 **Used technologies and tools:**
 * HTML
