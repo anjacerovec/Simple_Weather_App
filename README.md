@@ -1,5 +1,5 @@
 # Simple Weather App
-Hybrid mobile application for current weather built using Visual Studio tools For Apache Cordova 
+Hybrid mobile application for current weather built using Visual Studio tools For Apache Cordova  
 (based on https://docs.microsoft.com/en-us/visualstudio/cross-platform/tools-for-cordova/first-steps/build-your-first-app?view=toolsforcordova-2017)
 
 The app uses the geolocation of the device to show current weather conditions. User can also find current weather conditions of any location by typing it in the search bar which uses Google Places API to display location suggestions.
